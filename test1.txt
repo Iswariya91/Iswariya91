@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9A16-F4C0
+
+ Directory of C:\Users\iswariya.laxmi\Desktop\Demo_Auto
+
+04/05/2021  11:16 AM    <DIR>          .
+04/05/2021  11:16 AM    <DIR>          ..
+04/05/2021  11:16 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72,249,417,728 bytes free
